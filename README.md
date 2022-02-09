@@ -11,4 +11,3 @@ Unity project, learning UI elements
 - [ ] Slider elements
 - [ ] Audio source elements
 - [ ] Creating C# scripts
-- [ ] 
