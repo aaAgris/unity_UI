@@ -2,12 +2,13 @@
 Unity project, learning UI elements
 
 **Uzdevumu saraksts:**
-- [ ] Buttons
-- [ ] Text elements
-- [ ] Input Field elements
-- [ ] Toggle elements
-- [ ] Image elements
+- [x] Buttons
+- [x] Text elements
+- [x] Input Field elements
+- [x] Toggle elements
+- [x] Image elements
 - [ ] Panel elements
 - [ ] Slider elements
 - [ ] Audio source elements
-- [ ] Creating C# scripts
+- [ ] Drop Down elements
+- [x] Creating C# scripts
